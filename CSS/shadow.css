@@ -1,0 +1,26 @@
+h1{
+    text-shadow: 5px 5px 5px rebeccapurple;
+}
+/* só o primeiro e o segundo px podem ir -  */
+h2{
+    text-shadow: 5px 5px 5px rebeccapurple;
+}
+h3{
+    text-shadow:-5px -5px 5px rebeccapurple;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: justify;
+    color: black;
+}
+.texto {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    color: aquamarine;
+    text-align: right;
+}
+    .texto2{
+        font-size: 25px;
+        color: brown;
+    }

@@ -1,0 +1,14 @@
+
+body{
+    background-color: <palette>
+    <color name='html-and-css-web-design-code-for-developers-1' rgb='5F5C73' r='94' g='91' b='114' />
+    <color name='html-and-css-web-design-code-for-developers-2' rgb='8BBBD9' r='138' g='186' b='216' />
+    <color name='html-and-css-web-design-code-for-developers-3' rgb='9FA668' r='158' g='165' b='104' />
+    <color name='html-and-css-web-design-code-for-developers-4' rgb='BCBF65' r='188' g='191' b='101' />
+    <color name='html-and-css-web-design-code-for-developers-5' rgb='A67F68' r='165' g='126' b='104' />
+    </palette>;
+}
+h1{
+    font-family:'roboto', sans-serif;
+    padding;
+}
