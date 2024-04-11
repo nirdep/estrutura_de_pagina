@@ -1,0 +1,20 @@
+.box1{
+    height: 300px;
+    width: 300px;
+background-color: blue;
+border: 1px solid salmon;
+}
+
+.box2{
+    height: 300px;
+    width: 300px;
+background-color: yellow; 
+border: 1px solid salmon;
+}
+
+.box3{
+    height: 300px;
+    width: 300px;
+background-color:red;
+border: 300px solid salmon;
+}

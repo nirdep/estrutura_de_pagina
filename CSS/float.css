@@ -1,0 +1,21 @@
+*{
+   padding: ; 
+   margin: ;
+   text-align: justify;
+   
+} 
+
+.container{
+    margin: 15px;
+    padding: 15px;
+    border: 2px dotted green;
+    overflow: auto;
+}
+      
+.container img{
+    float: right;
+}
+    
+.div2{
+    border: 2px;
+}
